@@ -1,0 +1,8 @@
+C:\Users\Kamilla\source\repos\DateTimeExample\bin\Debug\DateTimeExample.exe.config
+C:\Users\Kamilla\source\repos\DateTimeExample\bin\Debug\DateTimeExample.exe
+C:\Users\Kamilla\source\repos\DateTimeExample\bin\Debug\DateTimeExample.pdb
+C:\Users\Kamilla\source\repos\DateTimeExample\obj\Debug\DateTimeExample.csproj.AssemblyReference.cache
+C:\Users\Kamilla\source\repos\DateTimeExample\obj\Debug\DateTimeExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kamilla\source\repos\DateTimeExample\obj\Debug\DateTimeExample.csproj.CoreCompileInputs.cache
+C:\Users\Kamilla\source\repos\DateTimeExample\obj\Debug\DateTimeExample.exe
+C:\Users\Kamilla\source\repos\DateTimeExample\obj\Debug\DateTimeExample.pdb
